@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Youtube-Convertor
+# Youtube - Convertor
 -Console Youtube Convertor
 
 # Youtube Convertor Features
@@ -10,7 +10,7 @@
 
 # To Run program  
 -Install dotnet framework   
--On CLI run command --> dotnet run  
+-On CLI run command -- dotnet run  
 
 
 
