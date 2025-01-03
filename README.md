@@ -4,7 +4,7 @@
 # Youtube Convertor Features
 -View Url Data  
 -Download Mp3  
--Download Mp4(Muxed and Non-Muxed)  
+-Download Mp4(Both Muxed and Non-Muxed)  
 
 
 # To Run program  
