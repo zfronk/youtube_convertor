@@ -15,7 +15,7 @@
 
 # Cons  
 -Bugs still present  
--Youtube Sign authentication still pending fixing soon
+-Youtube sign authentication still pending fixing soon
 
 
 
