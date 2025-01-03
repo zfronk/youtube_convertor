@@ -10,8 +10,12 @@
 # To Run program  
 -Install dotnet framework   
 -On CLI run command -- dotnet run  
+-Check windows/linux downloads folder directory  
 
 
+
+# Parting Shot  
+-Hey Enjoy
 
 # Cons  
 -Bugs still present  
