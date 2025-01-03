@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Youtube - Convertor
 -Console Youtube Convertor
 
