@@ -15,6 +15,7 @@
 
 
 # Cons  
--Bugs still present sign authentication still pending fixing soon
+-Bugs still present  
+-Sign authentication still pending fixing soon
 
 >>>>>>> 84cd97a (First Commit)
