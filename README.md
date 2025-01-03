@@ -13,12 +13,9 @@
 -Check windows/linux downloads folder directory  
 
 
-
-# Parting Shot  
--Hey Enjoy
-
 # Cons  
 -Bugs still present  
--Sign authentication still pending fixing soon
+-Youtube Sign authentication still pending fixing soon
 
 >>>>>>> 84cd97a (First Commit)
+>>>>>>> Enjoy 
