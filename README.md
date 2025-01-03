@@ -1,13 +1,13 @@
 # Youtube - Convertor
 -Console Youtube Convertor
 
-# Youtube Convertor Features
+# Features
 -View Url Data  
 -Download Mp3  
 -Download Mp4(Both Muxed and Non-Muxed)  
 
 
-# To Run program  
+# To Run    
 -Install dotnet framework   
 -On CLI run command -- dotnet run  
 -Check windows/linux downloads folder directory  
