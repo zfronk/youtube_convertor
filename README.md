@@ -8,8 +8,8 @@
 -Download Mp4(Muxed and Non-Muxed)  
 
 
-# Esssentials needed to Run  
--Install dotnet framework(That's all)  
+# To Run program  
+-Install dotnet framework   
 -On CLI run command --> dotnet run  
 
 
